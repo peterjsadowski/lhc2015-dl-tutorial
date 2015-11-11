@@ -1,6 +1,0 @@
-==========
-Corruption
-==========
-
-.. automodule:: pylearn2.corruption
-    :members:
