@@ -1,3 +1,2 @@
 Theano
-git+git://github.com/lisa-lab/pylearn2.git#egg=pylearn2
 
