@@ -1,3 +1,0 @@
-!obj:pylearn2.scripts.icml_2013_wrepl.emotions.emotions_dataset.EmotionsDataset {
-    which_set: 'public_test'
-}

@@ -1,5 +1,0 @@
-!obj:pylearn2.datasets.mnist.MNIST {
-        which_set: 'train',
-        start: 0,
-        stop: %(train_stop)i
-}
