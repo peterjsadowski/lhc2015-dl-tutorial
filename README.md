@@ -9,3 +9,9 @@ pip install Theano
 Download Pylearn2 and put it in your python path.
 https://github.com/lisa-lab/pylearn2
 
+# Requirements
+-numpy
+-scipy
+-matplotlib
+-h5py
+
